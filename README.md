@@ -46,7 +46,7 @@ I'm a **CyberSecurity Student and Web3 Enthusiast** with a passion for exploring
 ## 📫 How to Reach Me
 
 - **Twitter:** [@0xPerrry](https://twitter.com/0xPerrry)
-- **LinkedIn:** [Your LinkedIn Profile](#)  <!-- Replace '#' with your actual URL -->
+
 
 ---
 
