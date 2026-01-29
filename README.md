@@ -10,6 +10,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/prashikshit.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prashikshit.dev)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://prashikshit.substack.com/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/prashikshitsaini/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000)](https://app.hackthebox.com/profile/1473437)
 [![X](https://img.shields.io/badge/@heyprash-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyprash)
