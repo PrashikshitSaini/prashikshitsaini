@@ -18,14 +18,6 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=PrashikshitSaini&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
 
-<!-- Animated Snake -->
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashikshitSaini/PrashikshitSaini/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrashikshitSaini/PrashikshitSaini/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PrashikshitSaini/PrashikshitSaini/output/github-snake-dark.svg" />
-</picture>
-
 </div>
 
 ---
@@ -116,7 +108,7 @@ class SecurityEngineer:
 + [NEW] Prompt Injection and Agentic Browsers
 + [NEW] ChaCha20: The Cipher That Powers the Modern Web
 ! [HOT] Knowledge Representation in LLMs
-- [OLD] How LLMs Actually "Think"
+# [READ] How LLMs Actually "Think"
 ```
 <!-- BLOG-POST-LIST:END -->
 
@@ -143,19 +135,6 @@ class SecurityEngineer:
 
 ---
 
-### `> now playing`
-
-<div align="center">
-
-<!-- Spotify Now Playing - Replace with your Spotify user ID -->
-[![Spotify](https://novatorem-git-master-prashikshitsaini.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-*Set up [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) for live now playing*
-
-</div>
-
----
-
 <div align="center">
 
 <!-- Animated Quote -->
@@ -163,7 +142,7 @@ class SecurityEngineer:
 
 <br/><br/>
 
-<!-- Contact Links with Hover Effects -->
+<!-- Contact Links -->
 <a href="https://prashikshit.dev"><img src="https://img.shields.io/badge/Portfolio-prashikshit.dev-000?style=for-the-badge&logo=safari&logoColor=white"/></a>
 <a href="https://prashikshit.dev/blog.html"><img src="https://img.shields.io/badge/Blog-Read%20Articles-161b22?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="mailto:prashikshit.s@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
