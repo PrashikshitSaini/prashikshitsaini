@@ -13,11 +13,17 @@
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://prashikshit.substack.com/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/prashikshitsaini/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000)](https://app.hackthebox.com/profile/1473437)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrashikshitS/)
 [![X](https://img.shields.io/badge/@heyprash-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyprash)
 
 <!-- Profile Views Counter -->
 <br/>
 <img src="https://komarev.com/ghpvc/?username=PrashikshitSaini&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<!-- Animated Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikshitSaini&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
