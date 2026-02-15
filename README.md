@@ -121,7 +121,7 @@ I write about security, systems, and the technical decisions that shape software
 
 <div align="center">
 
-**[📖 Read more on my blog →](https://prashikshit.dev/blog.html)**
+**[📖 Read more on my blog →](https://prashikshit.dev/)**
 
 </div>
 
