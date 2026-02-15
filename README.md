@@ -1,142 +1,139 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Prashikshit%20Saini&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20|%20Breaking%20things%20to%20make%20them%20stronger&descSize=16&descAlignY=55&descAlign=50"/>
+# Prashikshit Saini
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+secure+systems+%F0%9F%94%90;Breaking+insecure+ones+%F0%9F%92%A5;Writing+about+security+%26+systems+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
+**Senior Cybersecurity Major @ LeTourneau University**
+Starting in Automation Engineering Software after graduation
 
-<!-- Animated Social Badges -->
-<br/>
+[![Portfolio](https://img.shields.io/badge/🌐_prashikshit.dev-000000?style=flat-square)](https://prashikshit.dev)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square)](mailto:prashikshit.s@gmail.com)
+[![X](https://img.shields.io/badge/𝕏_@heyprash-000000?style=flat-square)](https://x.com/heyprash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashikshitsaini/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=000)](https://app.hackthebox.com/profile/1473437)
 
-[![Portfolio](https://img.shields.io/badge/prashikshit.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prashikshit.dev)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://prashikshit.substack.com/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/prashikshitsaini/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000)](https://app.hackthebox.com/profile/1473437)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrashikshitS/)
-[![X](https://img.shields.io/badge/@heyprash-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyprash)
-
-<!-- Profile Views Counter -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=PrashikshitSaini&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- Animated Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikshitSaini&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashikshitSaini&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="300"/>
+## 👨‍💻 About
 
-### `> whoami`
+I'm deeply invested in security engineering, intelligent automation, and building systems that actually work. My focus is on understanding how things break—and building them to not break in the first place.
+
+I work with agentic code workflows, using tools like Claude Code to build agents, skills, and automations that transform how we interact with software. If it involves autonomous systems, intelligent automation, or the next generation of developer tools, I'm all in.
+
+**Current focus:** Building secure systems that bridge automation, security, and software engineering.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashikshitSaini&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&rank_icon=percentile" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashikshitSaini&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Ghost Sub Tracker](https://github.com/PrashikshitSaini/ghost-sub-tracker)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+Eliminated billing surprises for users by centralizing all recurring payments with real-time spend tracking. Solved the multi-currency problem for international users, supporting 12+ currencies. Users regained visibility and control over $500+ average monthly subscription spend.
+
+</td>
+<td width="50%">
+
+### [SimpMap](https://github.com/PrashikshitSaini/simpmap)
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+Network reconnaissance tool built for security professionals who need fast, accurate results. Streamlined the discovery phase of penetration testing by combining multiple scan types into one intuitive interface.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [SimpTraceroute](https://github.com/PrashikshitSaini/simptraceroute)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+Traceroute implementation from scratch using raw sockets. Built to understand network path analysis at the packet level—no abstractions, just ICMP and UDP fundamentals.
+
+</td>
+<td width="50%">
+
+### [Crypto Ciphers](https://github.com/PrashikshitSaini/crypto-ciphers)
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+Python implementation of classical encryption algorithms (Caesar, Vigenère, Playfair). Built to understand the foundations of cryptography before tackling modern systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Focus
+
+<div align="center">
 
 ```python
-class SecurityEngineer:
-    def __init__(self):
-        self.name = "Prashikshit Saini"
-        self.role = "Security Engineer"
-        self.university = "LeTourneau University"
-        self.interests = [
-            "Offensive Security",
-            "Cloud Security",
-            "Building Tools",
-            "Breaking Systems"
-        ]
-
-    def current_focus(self):
-        return "Finding where things break"
+skills = {
+    "security": ["Offensive Security", "Penetration Testing", "Vulnerability Assessment"],
+    "development": ["Python", "JavaScript/TypeScript", "React", "Next.js", "Solidity"],
+    "infrastructure": ["AWS Lambda", "DynamoDB", "S3", "Linux", "Docker"],
+    "tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy", "Splunk"]
+}
 ```
 
-<br clear="right"/>
-
----
-
-### `> cat /etc/skills`
-
-<div align="center">
-
-<!-- Animated Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,aws,linux,docker,git,solidity&theme=dark&perline=10" />
-
-<br/><br/>
-
-<!-- Security Tools with custom styling -->
-| Offensive | Defensive | Cloud |
-|:-:|:-:|:-:|
-| ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square&logo=python&logoColor=white) | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) |
-| ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,aws,linux,docker,git&theme=dark" />
 
 </div>
 
 ---
 
-### `> ls -la ./projects`
+## 📜 Certifications
 
 <div align="center">
 
-<!-- Animated Project Cards -->
-<a href="https://github.com/PrashikshitSaini/ghost-sub-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashikshitSaini&repo=ghost-sub-tracker&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/PrashikshitSaini/simpmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashikshitSaini&repo=simpmap&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/PrashikshitSaini/simptraceroute">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashikshitSaini&repo=simptraceroute&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/PrashikshitSaini/crypto-ciphers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashikshitSaini&repo=crypto-ciphers&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
+| Certification | Issuer | Valid Through |
+|:---|:---:|---:|
+| **Security+** | CompTIA | Aug 2028 |
+| **Network+** | CompTIA | Jun 2027 |
+| **Cybersecurity Professional** | Google | 2024 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
 
 ---
 
-### `> cat ./certifications.txt`
+## ✍️ Recent Writing
+
+I write about security, systems, and the technical decisions that shape software.
+
+- 🔐 **[Prompt Injection and Agentic Browsers](https://prashikshit.dev/blog.html)** — How autonomous browsers create new attack surfaces
+- 🔒 **[ChaCha20: The Cipher That Powers the Modern Web](https://prashikshit.dev/blog.html)** — Understanding the cryptography behind HTTPS
+- 🧠 **[Knowledge Representation in LLMs](https://prashikshit.dev/blog.html)** — How language models store and retrieve information
+- ⚡ **[How LLMs Actually "Think"](https://prashikshit.dev/blog.html)** — Breaking down transformer architecture and attention mechanisms
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+**[📖 Read more on my blog →](https://prashikshit.dev/blog.html)**
 
 </div>
 
 ---
 
-### `> tail -f ./blog.log`
-
-<!-- BLOG-POST-LIST:START -->
-```diff
-+ [NEW] Prompt Injection and Agentic Browsers
-+ [NEW] ChaCha20: The Cipher That Powers the Modern Web
-! [HOT] Knowledge Representation in LLMs
-# [READ] How LLMs Actually "Think"
-```
-<!-- BLOG-POST-LIST:END -->
+## 📊 GitHub Activity
 
 <div align="center">
 
-**[Read more on my blog →](https://prashikshit.dev/blog.html)**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashikshitSaini&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=c9d1d9&dates=8b949e" width="48%"/>
 
-</div>
-
----
-
-### `> neofetch`
-
-<div align="center">
-
-<!-- GitHub Stats with animations -->
-<img src="https://github-readme-stats.vercel.app/api?username=PrashikshitSaini&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=percentile" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashikshitSaini&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=c9d1d9&dates=6e7681" height="180"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikshitSaini&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikshitSaini&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -144,17 +141,12 @@ class SecurityEngineer:
 
 <div align="center">
 
-<!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20truly%20understand%20a%20system%20is%20to%20try%20to%20break%20it.&author=Security%20Mindset"/>
+### 💬 Let's Connect
 
-<br/><br/>
+I'm always interested in discussing security, automation, and building better systems.
 
-<!-- Contact Links -->
-<a href="https://prashikshit.dev"><img src="https://img.shields.io/badge/Portfolio-prashikshit.dev-000?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="https://prashikshit.dev/blog.html"><img src="https://img.shields.io/badge/Blog-Read%20Articles-161b22?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="mailto:prashikshit.s@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**[🌐 Portfolio](https://prashikshit.dev)** · **[📝 Blog](https://prashikshit.dev/blog.html)** · **[📧 Email](mailto:prashikshit.s@gmail.com)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"/>
